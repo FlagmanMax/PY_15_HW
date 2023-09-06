@@ -1,0 +1,2 @@
+root: 2023-09-05 17:57:04,239 INFO wrapper 22 -> Func log_div Args: 10 5; Res = 2.0
+root: 2023-09-05 17:57:04,239 INFO wrapper 22 -> Func log_mult Args: 10 5; Res = 50

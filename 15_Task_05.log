@@ -1,0 +1,18 @@
+INFO, 2023-09-05 21:58:48,534, Date = 2023-11-23
+INFO, 2023-09-05 21:59:23,888, Date = 2023-11-23, String = 4-�� ������� ������
+INFO, 2023-09-05 21:59:46,104, Date = 2023-11-23, String = 4-�� ������� ������
+INFO, 2023-09-05 22:00:33,780, Date = 2023-11-23, String = 4-ый четверг ноября
+INFO, 2023-09-05 22:01:37,708, Date = 2023-11-23, String = 4-ый четверг ноября
+INFO, 2023-09-05 22:01:57,148, Date = 2023-11-23, String = 4-ый четверг ноября
+ERROR, 2023-09-05 22:06:36,302, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:15:01,486, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:18:24,351, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:18:42,230, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:19:24,119, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:19:32,442, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:20:49,147, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:27:11,356, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:27:22,111, Wrong date!: list index out of range
+ERROR, 2023-09-05 22:28:09,017, Wrong date!: list index out of range
+INFO, 2023-09-05 22:28:38,908, Date = 2023-11-09, String = 2-ой четверг ноября
+INFO, 2023-09-05 22:29:28,939, Date = 2023-09-14, String = 2-ой четверг сентября

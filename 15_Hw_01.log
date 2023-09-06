@@ -1,0 +1,19 @@
+root: 2023-09-06 22:40:47,319 INFO quadratic_equation 64 -> a = 40, b= -79, c = -45
+root: 2023-09-06 22:40:47,319 INFO quadratic_equation 69 -> 2 roots found: 2.44, -0.46
+root: 2023-09-06 22:40:48,524 INFO quadratic_equation 64 -> a = -31, b= 84, c = 22
+root: 2023-09-06 22:40:48,524 INFO quadratic_equation 69 -> 2 roots found: -0.24, 2.95
+root: 2023-09-06 22:40:51,122 INFO quadratic_equation 64 -> a = -54, b= 60, c = -58
+root: 2023-09-06 22:40:51,122 ERROR quadratic_equation 76 -> No roots found
+root: 2023-09-06 22:42:25,922 INFO quadratic_equation 64 -> a = 40, b= 79, c = 45
+root: 2023-09-06 22:43:41,197 INFO quadratic_equation 64 -> a = 40.0, b= 79.0, c = 45.0
+root: 2023-09-06 22:43:41,197 ERROR quadratic_equation 76 -> No roots found
+root: 2023-09-06 22:43:43,238 INFO quadratic_equation 64 -> a = 40.0, b= 79.0, c = 45.0
+root: 2023-09-06 22:43:43,238 ERROR quadratic_equation 76 -> No roots found
+root: 2023-09-06 22:43:59,353 INFO quadratic_equation 64 -> a = 40.0, b= -79.0, c = 45.0
+root: 2023-09-06 22:43:59,353 ERROR quadratic_equation 76 -> No roots found
+root: 2023-09-06 22:44:08,649 INFO quadratic_equation 64 -> a = 40.0, b= -79.0, c = -45.0
+root: 2023-09-06 22:44:08,649 INFO quadratic_equation 69 -> 2 roots found: 2.44, -0.46
+root: 2023-09-06 22:44:13,576 INFO quadratic_equation 64 -> a = 40.0, b= -79.0, c = -51
+root: 2023-09-06 22:44:13,576 INFO quadratic_equation 69 -> 2 roots found: 2.49, -0.51
+root: 2023-09-06 22:44:20,215 INFO quadratic_equation 64 -> a = 40.0, b= -52, c = 56
+root: 2023-09-06 22:44:20,216 ERROR quadratic_equation 76 -> No roots found
